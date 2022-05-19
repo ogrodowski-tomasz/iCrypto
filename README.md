@@ -1,6 +1,6 @@
 # CRYPTOCURRENCY APP
 
-App that gather info about top 250 cryptocurrencies. Data is provided by calling API created by coingecko.com. 
+App that gather info about top 250 cryptocurrencies. Data is provided by calling API created by coingecko.com. App uses Core Data, Networking, MVVM architecture (fully written in Swift with use of SwiftUI)
 
 # Main View 
 This view shows list of 250 biggest coins on the market as well as 3 market parameters: 
